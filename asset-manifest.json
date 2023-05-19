@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tmaldocena/taller-react/static/css/main.9afc1a12.css",
+    "main.js": "/tmaldocena/taller-react/static/js/main.806ef142.js",
+    "static/js/787.d69fa445.chunk.js": "/tmaldocena/taller-react/static/js/787.d69fa445.chunk.js",
+    "static/media/the_office.jpg": "/tmaldocena/taller-react/static/media/the_office.2e798b108e8a6fa60fae.jpg",
+    "static/media/loader.svg": "/tmaldocena/taller-react/static/media/loader.b2e490bdebc3e264684d337fcb37264c.svg",
+    "index.html": "/tmaldocena/taller-react/index.html",
+    "main.9afc1a12.css.map": "/tmaldocena/taller-react/static/css/main.9afc1a12.css.map",
+    "main.806ef142.js.map": "/tmaldocena/taller-react/static/js/main.806ef142.js.map",
+    "787.d69fa445.chunk.js.map": "/tmaldocena/taller-react/static/js/787.d69fa445.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9afc1a12.css",
+    "static/js/main.806ef142.js"
+  ]
+}
