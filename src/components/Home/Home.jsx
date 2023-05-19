@@ -1,5 +1,5 @@
 import './Home.css';
-import TheOffice from '../assets/the_office.jpg';
+import TheOffice from '../../assets/the_office.jpg';
 
 function Home(){
     return(
